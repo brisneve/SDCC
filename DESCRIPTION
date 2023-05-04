@@ -1,0 +1,11 @@
+Package: SDCC
+Type: Package
+Title: Spectrophotometric Determination of Chlorophyll Concentration
+Version: 0.1.0
+Author: Brisneve Edullantes
+Maintainer: Brisneve Edullantes <bedullantes@up.edu.ph>
+Description: The package has functions to compute chlorophyll concentration measured using spectrophotometric method.
+License: CC0
+Encoding: UTF-8
+LazyData: true
+Imports: tidyverse
